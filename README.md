@@ -1,5 +1,5 @@
 ## ASR model evaluator
-Evaluating [Whisper](https://openai.com/research/whisper) vs [Vosk](https://alphacephei.com/vosk/) vs [Google](https://cloud.google.com/speech-to-text) transcribers and model parametrs by [WER, MER, WIL](https://www.researchgate.net/publication/221478089_From_WER_and_RIL_to_MER_and_WIL_improved_evaluation_measures_for_connected_speech_recognition).
+Evaluating [Whisper](https://openai.com/research/whisper) vs [Vosk](https://alphacephei.com/vosk/) vs [Google](https://cloud.google.com/speech-to-text) transcribers and model parametrs by [WER, MER, WIL](https://www.researchgate.net/publication/221478089_From_WER_and_RIL_to_MER_and_WIL_improved_evaluation_measures_for_connected_speech_recognition)
 
 ---
 
