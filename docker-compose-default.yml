@@ -16,5 +16,5 @@ services:
       - START_MINUTE=0
       - VOSK_SERVER_DEFAULT=ws://10.2.4.87:2700
       - GOOGLE_CREDENTIALS_FILE_PATH=/reporter/credentials/YOUR_GOOGLE_KEY.json
-      - TELEGRAM_CHAT=-1001443983697
+      - TELEGRAM_CHAT=
       - TELEGRAM_BOT_TOKEN=
